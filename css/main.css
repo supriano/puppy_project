@@ -1,0 +1,54 @@
+
+
+body { 
+		background-color: #FF6B06; 
+}
+
+@font-face {
+ 				font-family:DeLaFuente;
+ 				src: url(./puppy_project/DeLaFuente.ttf);
+ 			}
+
+a {
+	color:#FFFFFF;
+	color: white; text-decoration: none; 
+	 
+}
+
+a:hover { 
+			color:#F8ED31;
+}
+
+h1 { 
+ 		color: #FFFFFF;
+ 	/*font-size: 300px;
+ 	font-weight: normal;
+ 	font-family:Helvetica;*/
+
+ 		font:bold 300px DeLaFuente;
+ 		/*margin: top right bottom left;*/
+ 		margin: 200px 0px 200px 0px;
+ 		text-align: center;
+
+ 		
+ 	}
+
+
+ #change{
+ 			font-family:DeLaFuente;
+		}
+ 
+ p { 
+ 		color: #FFFFFF;
+ 		font: bold 100px Helvetica;
+ 		text-align: center;
+  }
+div.content { 
+		margin: 0px auto 40px auto;
+		width: 600px;
+ }
+
+ div.content img { 
+ 		margin: 0px 0px 0px 0px;
+ 		width: 600px;
+  }

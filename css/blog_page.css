@@ -1,0 +1,140 @@
+body { 
+		background-color: #FF6B06;
+}
+
+@font-face {
+ 				font-family:DeLaFuente;
+ 				src: url(./puppy_project/DeLaFuente.ttf);
+ 			}
+a {
+	color:#FFFFFF;
+	color: white; text-decoration: none;
+
+}
+
+a:hover { 
+			color:#F8ED31;
+
+}
+
+h1 {
+
+	color:#FFFFFF;
+ 	/*font-size: 300px;
+ 	font-weight: normal;
+ 	font-family:Helvetica;*/
+
+ 		font:bold 100px DeLaFuente;
+ 		/*margin: top right bottom left;*/
+ 		margin: 0px 0px 0px 0px;
+ 		text-align: center;
+}
+
+.post1 h2 {
+			color: #FFFFFF;
+			font:bold 30px Helvetica;
+ 		/*margin: top right bottom left;*/
+ 		margin: 0px 0px 0px 40px;
+
+
+ 		
+}
+
+.post1 pre {
+				color: #FFFFFF;
+			font:bold 25px Helvetica;
+ 		/*margin: top right bottom left;*/
+ 		margin: 0px 0px 0px 40px;
+}
+
+.post1 p {
+			font:bold 15px Helvetica;
+ 			/*margin: top right bottom left;*/
+ 			margin: 0px 0px 0px 200px;
+}
+
+.post1 a {
+			color:#FFFFFF;
+	color: white; text-decoration: none;
+}
+
+
+.post1 a:hover {
+					color:#F8ED31;
+}
+
+
+
+.post1 img {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+
+.post1 img:hover {
+  -webkit-filter: blur(5px);
+}
+
+.post2 h2 {
+			color: #FFFFFF;
+			font:bold 30px Helvetica;
+ 		/*margin: top right bottom left;*/
+ 		margin: 0px 0px 0px 50px;
+
+
+ 		
+}
+
+.post2 pre {
+				color: #FFFFFF;
+			font:bold 25px Helvetica;
+ 		/*margin: top right bottom left;*/
+ 		margin: 0px 0px 0px 40px;
+}
+
+.post2 p {
+			font:bold 15px Helvetica;
+ 			/*margin: top right bottom left;*/
+ 			margin: 0px 0px 0px 200px;
+}
+
+.post2 a {
+			color:#FFFFFF;
+	color: white; text-decoration: none;
+}
+
+
+.post2 a:hover {
+					color:#F8ED31;
+}
+
+
+
+.post2 img {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+
+.post2 img:hover {
+  -webkit-filter: blur(5px);
+}
+
+.post1 img {
+    width: 400px;
+    margin: 0px 50px 0px 50px;
+}
+
+.post2 img {
+    width: 400px;
+    margin: 0px 50px 0px 50px;
+}
+
+ 
+
+
+
